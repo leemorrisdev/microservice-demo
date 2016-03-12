@@ -1,0 +1,15 @@
+group 'uk.co.leemorris.microservicedemo'
+version '1.0.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.7.2'
+    testCompile 'junit:junit'
+}

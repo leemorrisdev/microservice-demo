@@ -1,0 +1,18 @@
+group 'uk.co.leemorris.microservicedemo'
+version '1.0.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':common')
+    compile 'com.sparkjava:spark-core'
+    compile 'com.fasterxml.jackson.core:jackson-databind'
+    compile 'com.google.guava:guava'
+    testCompile 'junit:junit'
+}

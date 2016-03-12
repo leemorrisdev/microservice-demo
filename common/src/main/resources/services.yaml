@@ -1,0 +1,10 @@
+services:
+    PARCEL_DETAIL:
+        port : 9054
+        id : 1
+    TRACKER:
+        port : 9055
+        id : 2
+    WEB:
+        port : 8080
+        id : 3

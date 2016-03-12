@@ -1,0 +1,118 @@
+[
+  {
+    "parcelId" : "1",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      },
+      {
+        "timestamp" : "2016-02-07T14:51:12",
+        "status" : "AT_DEPOT"
+      },
+      {
+        "timestamp" : "2016-02-08T07:01:23",
+        "status" : "OUT_FOR_DELIVERY"
+      }
+    ]
+  },
+  {
+    "parcelId" : "2",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      }
+    ]
+  },
+  {
+    "parcelId" : "3",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      },
+      {
+        "timestamp" : "2016-02-07T14:51:12",
+        "status" : "AT_DEPOT"
+      }
+    ]
+  },
+  {
+    "parcelId" : "4",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      }
+    ]
+  },
+  {
+    "parcelId" : "5",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      }
+    ]
+  },
+  {
+    "parcelId" : "6",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      }
+    ]
+  },
+  {
+    "parcelId" : "7",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      }
+    ]
+  },
+  {
+    "parcelId" : "8",
+    "entries" : [
+      {
+        "timestamp" : "2016-02-05T11:52:01",
+        "status" : "PENDING"
+      },
+      {
+        "timestamp" : "2016-02-06T10:00:05",
+        "status" : "DISPATCHED"
+      },
+      {
+        "timestamp" : "2016-02-07T14:51:12",
+        "status" : "AT_DEPOT"
+      },
+      {
+        "timestamp" : "2016-02-08T07:01:23",
+        "status" : "OUT_FOR_DELIVERY"
+      }
+    ]
+  }
+]

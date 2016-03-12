@@ -1,0 +1,26 @@
+group 'uk.co.leemorris.microservicedemo'
+version '1.0.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+allprojects {
+    dependencies {
+        apply plugin: 'java'
+        compile 'com.orbitz.consul:consul-client:0.9.16'
+        compile 'org.apache.cxf:cxf-rt-rs-client:3.0.3'
+        compile 'org.apache.cxf:cxf-rt-transports-http-hc:3.0.3'
+        compile 'com.sparkjava:spark-core:2.3'
+        compile 'com.fasterxml.jackson.core:jackson-databind:2.7.2'
+        compile 'com.google.guava:guava:19.0'
+        compile 'org.slf4j:slf4j-api:1.7.18'
+        compile 'ch.qos.logback:logback-core:1.1.6'
+        compile 'ch.qos.logback:logback-classic:1.1.6'
+        testCompile 'junit:junit:4.11'
+    }
+}

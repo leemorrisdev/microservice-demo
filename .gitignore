@@ -1,0 +1,11 @@
+.gradle/
+microservice-demo.iml
+parcel-detail-service/build/
+common/build/
+common/common.iml
+web/build/
+tracker-service/build/
+.idea/
+web/web.iml
+parcel-detail-service/parcel-detail-service.iml
+tracker-service/tracker-service.iml

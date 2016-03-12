@@ -1,0 +1,6 @@
+rootProject.name = 'microservice-demo'
+include 'tracker-service'
+include 'parcel-detail-service'
+include 'common'
+include 'web'
+

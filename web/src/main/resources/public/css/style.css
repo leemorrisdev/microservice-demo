@@ -1,0 +1,13 @@
+body {
+
+}
+
+.server-mode {
+    display:block;
+    background-color:#cff2ff;
+    height:35px;
+    line-height: 1.4;
+    text-align:center;
+    padding-top:7px;
+    border-radius:6px;
+}
